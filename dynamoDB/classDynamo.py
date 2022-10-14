@@ -152,3 +152,6 @@ class DynamoDb():
         except:
             print("Error en pasar la tabla a csv")
 
+
+
+        
