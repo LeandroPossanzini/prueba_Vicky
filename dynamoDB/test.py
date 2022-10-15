@@ -9,6 +9,6 @@ evento4 = [551,"nodo-cbs005","chaco",874]
 objeto = {"nodo":"nuevo-nodo"}
 
 tabla = DynamoDb()
-tabla.deleteTable("la-tabla-final")
+tabla.createTable("tabla-Sandra")
 
 
