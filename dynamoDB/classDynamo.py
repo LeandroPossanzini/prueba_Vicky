@@ -52,7 +52,7 @@ class DynamoDb():
             print(f"No se elimino la Tabla: {tableName}")    
 
 
-class TablesDynamoDb():
+class DynamoDbTable():
     def __init__(self,tableName):
         self.tableName = tableName
 
